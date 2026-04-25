@@ -4,7 +4,7 @@
 
 <h1>Saikumar Mallarapu</h1>
 
-<p><strong>Python Django Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; REST API Specialist</strong></p>
+<p><strong>Python Django Developer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; REST API Developer</strong></p>
 
 <p>
 📍 Chennai, India &nbsp;|&nbsp;
@@ -31,7 +31,7 @@ class SaikumarMallarapu:
     company     = "M7 Corporation"
     location    = "Chennai, India"
     experience  = "1 Year"
-    education   = "MCA (2025 - 2027)"
+    education   = "Pursuing MCA (2025 - 2027)"
 
     skills = {
         "language"   : ["Python", "SQL", "JavaScript"],
@@ -45,7 +45,7 @@ class SaikumarMallarapu:
 
     achievements = [
         "Delivered 5+ production Django applications",
-        "Built REST APIs across Healthcare, NGO & Education",
+        "Developed production-ready REST APIs for Healthcare, NGO & Education systems",
         "Normalized PostgreSQL schemas with query optimization",
         "Deployed apps on Linux via Gunicorn + Nginx",
         "NIELIT Certified Web Developer — Grade B",
@@ -97,11 +97,11 @@ class SaikumarMallarapu:
 ## 💼 Work Experience
 
 ### Python Django Developer — M7 Corporation
-📅 July 2025 – Present &nbsp;|&nbsp; 📍 Nellore, India
+📅 July 2025 – Present &nbsp;|&nbsp; 📍 Chennai, India
 
 | # | Achievement |
 |---|-------------|
-| 🔹 | Designed & shipped **5+ Django applications** across Healthcare, NGO & Education |
+| 🔹 | Designed & delivered **5+ production-ready Django applications** across Healthcare, NGO & Education |
 | 🔹 | Built **REST APIs** using DRF with JWT, Token & Session authentication |
 | 🔹 | Developed **Bulk Email Automation** system eliminating 60% of manual dispatch work |
 | 🔹 | Built **Invoice Generator** with PDF export via WeasyPrint |
@@ -111,16 +111,16 @@ class SaikumarMallarapu:
 
 ---
 
-## 🏢 Founded — PSDiginex
+## 🏢 PSDiginex — Freelance Software Development
 
-**Software Solutions Provider** *(Founder & Developer)*
+**Software Development Service (Independent Developer)**
 
-📅 2026 – Present &nbsp;|&nbsp; 📍 Chennai, India
+📅 2026 – Present &nbsp;|&nbsp; 📍 Chennai, India | Remote Software Services
 
 | # | What We Do |
 |---|------------|
-| 🔹 | Providing software solutions to **local stores & business owners** |
-| 🔹 | Building **Django-based business automation** tools |
+| 🔹 | Building software solutions for **local businesses & clients** |
+| 🔹 | Developing **Django-based business automation** tools |
 | 🔹 | End-to-end **client project delivery** across multiple domains |
 | 🔹 | Invoice, barcode & email automation systems |
 
@@ -130,7 +130,7 @@ class SaikumarMallarapu:
 
 ### 🏥 Bhaarath Medical College & Hospital Management Portal
 `Django` `DRF` `PostgreSQL` `JavaScript` `Bootstrap`
-- Built 10+ REST API endpoints with role-based access control (Admin, Staff, Doctor)
+- Developed REST APIs with role-based authentication & access control (Admin, Staff, Doctor)
 - Normalized PostgreSQL schema with indexed foreign keys
 - Session-based auth with login throttling
 
@@ -182,7 +182,7 @@ class SaikumarMallarapu:
 
 | Degree | Institution | Year |
 |---|---|---|
-| MCA — Master of Computer Applications | Shree Krishna Chaitanya Institute of Science & Technology | 2025 – 2027 |
+| MCA — Master of Computer Applications | Shree Krishna Chaitanya Institute of Science & Technology | 2025 – 2027 (Pursuing) |
 | BCA — Data Science | Shree Krishna Chaitanya Degree College | 2022 – 2025 |
 
 ---
@@ -211,6 +211,6 @@ class SaikumarMallarapu:
 
 ---
 
-*"Building scalable backend systems, one API at a time."*
+*"Developing scalable backend systems, one API at a time."*
 
 </div>
