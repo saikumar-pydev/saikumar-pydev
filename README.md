@@ -115,7 +115,7 @@ class SaikumarMallarapu:
 
 **Software Solutions Provider** *(Founder & Developer)*
 
-📅 [2026] – Present &nbsp;|&nbsp; 📍 Nellore, India
+📅 2026 – Present &nbsp;|&nbsp; 📍 Nellore, India
 
 | # | What We Do |
 |---|------------|
