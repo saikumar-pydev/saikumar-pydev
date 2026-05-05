@@ -14,8 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarmallarapu)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar.pydev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikumar-thaagam)
-[![Profile Views](https://komarev.com/ghpvc/?username=saikumar-thaagam&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/saikumar-thaagam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikumar-pydev)
+[![Profile Views](https://komarev.com/ghpvc/?username=saikumar-pydev&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/saikumar-pydev)
 
 </div>
 
@@ -111,7 +111,7 @@ class SaikumarMallarapu:
 
 ---
 
-## 🏢 PSDiginex — Freelance Software Development
+## 🏢 [spnexio](https://spnexio.in) — Freelance Software Development
 
 **Software Development Service (Independent Developer)**
 
@@ -168,11 +168,11 @@ class SaikumarMallarapu:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumar-thaagam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)](https://github.com/saikumar-pydev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-thaagam&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikumar-thaagam&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikumar-pydev&theme=default&hide_border=true)
 
 </div>
 
