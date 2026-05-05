@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar.pydev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikumar-pydev)
 [![Profile Views](https://komarev.com/ghpvc/?username=saikumar-pydev&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/saikumar-pydev)
-[![spnexio](https://img.shields.io/badge/spnexio-Our_Services-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://spnexio.in)
+[![spnexio](https://img.shields.io/badge/spnexio-Our_Services-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spnexio.in)
 
 </div>
 
