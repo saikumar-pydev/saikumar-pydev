@@ -168,9 +168,9 @@ class SaikumarMallarapu:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/saikumar-pydev)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumar-pydev&theme=default)](https://github.com/saikumar-pydev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&theme=default&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumar-pydev&theme=default)](https://github.com/saikumar-pydev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-pydev&theme=default&hide_border=true)](https://github.com/saikumar-pydev)
 
