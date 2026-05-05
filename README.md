@@ -172,7 +172,7 @@ class SaikumarMallarapu:
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumar-pydev&theme=default)](https://github.com/saikumar-pydev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saikumar-pydev&theme=default&hide_border=true)](https://github.com/saikumar-pydev)
+[![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app?user=saikumar-pydev&theme=default&hide_border=true)](https://github.com/saikumar-pydev)
 
 </div>
 
