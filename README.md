@@ -236,10 +236,13 @@ class SaikumarMallarapu:
 <div align="center">
     
 ---
+## 🔍 Expertise
 
-## 🔍 Keywords
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `REST APIs`
 
-Python Developer, Django Developer, Django REST Framework Developer, Backend Developer, REST API Developer, PostgreSQL Developer, AWS Deployment, Docker, Redis, Celery, Linux Server Deployment, SaaS Developer, Business Automation Software, CRM Development, Billing Software Developer, WhatsApp Automation, API Integration
+`Docker` · `Redis` · `Celery` · `Linux` · `AWS`
+
+`SaaS Development` · `CRM Systems` · `Business Automation` · `WhatsApp Automation`
 
 ## 🤝 Open To Work
 
