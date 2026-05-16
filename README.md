@@ -4,19 +4,22 @@
 
 <h1>Saikumar Mallarapu</h1>
 
-<p><strong>Python Django Developer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; REST API Developer</strong></p>
+<p><strong>Python Django Developer &nbsp;·&nbsp; Django REST API Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; SaaS Developer</strong></p>
 
 <p>
 📍 Chennai, India &nbsp;|&nbsp;
 🏢 M7 Corporation &nbsp;|&nbsp;
 🎓 MCA — Shree Krishna Chaitanya Institute
 </p>
+<p>
+Backend Engineer specializing in Django, REST APIs, PostgreSQL, SaaS Platforms, CRM Systems & Business Automation Software.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarmallarapu)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar.pydev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikumar-pydev)
 [![Profile Views](https://komarev.com/ghpvc/?username=saikumar-pydev&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/saikumar-pydev)
-[![Saipooja Software Solutions](https://img.shields.io/badge/saipoojasolutions-Our_Services-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saipoojasolutions.in)
+[![Saipooja Software Solutions](https://img.shields.io/badge/saipoojasolutions-Software_Services-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saipoojasolutions.in)
 
 </div>
 
@@ -112,9 +115,9 @@ class SaikumarMallarapu:
 
 ---
 
-## 🏢 [Saipooja Software Solutions](https://saipoojasolutions.in) — Freelance Software Development
+## 🏢 [Saipooja Software Solutions](https://saipoojasolutions.in) — Remote Software Development
 
-**Software Development Service (Independent Developer)**
+**Founder — Saipooja Software Solutions**
 
 📅 2026 – Present &nbsp;|&nbsp; 📍 Chennai, India | Remote Software Services
 
@@ -124,6 +127,19 @@ class SaikumarMallarapu:
 | 🔹 | Developing **Django-based business automation** tools |
 | 🔹 | End-to-end **client project delivery** across multiple domains |
 | 🔹 | Invoice, barcode & email automation systems |
+
+---
+
+## 💼 Services
+
+- Custom Business Software Development
+- Billing & POS Systems
+- CRM Development
+- WhatsApp Automation
+- REST API Development
+- Django SaaS Applications
+- Business Process Automation
+- API Integration
 
 ---
 
@@ -147,6 +163,24 @@ class SaikumarMallarapu:
 - Bulk Email Bot with SMTP integration
 - Label Bot for internal process automation
 
+### 🛒 Multi-Shop POS SaaS Platform
+`Django` `DRF` `PostgreSQL` `JWT` `Docker` `Redis`
+- Built a multi-tenant POS system for shops with owner dashboard and billing counters
+- Implemented product, inventory, billing, sales and profit report modules
+- Designed subscription-based counter management for SaaS pricing
+
+### 📒 Distributor Ledger Management System
+`Django` `DRF` `PostgreSQL` `REST API`
+- Developed digital ledger system for distributors to manage shop-wise orders, payments and balances
+- Implemented debit/credit ledger flow with running balance calculation
+- Added weekly and monthly summary reports for business tracking
+
+### 🤖 WhatsApp CRM & AI Automation System
+`Django` `DRF` `Celery` `Redis` `OpenAI` `WhatsApp API`
+- Built CRM system for leads, conversations, follow-ups and WhatsApp automation
+- Integrated AI auto-reply workflow with scheduled follow-up automation
+- Designed scalable backend modules for campaign and customer communication
+  
 ### ✅ Task Manager REST API *(Personal Project)*
 `Django REST Framework` `PostgreSQL` `JWT` `Swagger`
 - JWT authentication (access + refresh token flow)
@@ -200,6 +234,12 @@ class SaikumarMallarapu:
 ---
 
 <div align="center">
+    
+---
+
+## 🔍 Keywords
+
+Python Developer, Django Developer, Django REST Framework Developer, Backend Developer, REST API Developer, PostgreSQL Developer, AWS Deployment, Docker, Redis, Celery, Linux Server Deployment, SaaS Developer, Business Automation Software, CRM Development, Billing Software Developer, WhatsApp Automation, API Integration
 
 ## 🤝 Open To Work
 
@@ -211,7 +251,7 @@ class SaikumarMallarapu:
 [![Send Email](https://img.shields.io/badge/saikumar.pydev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar.pydev@gmail.com)
 
 ---
-
+🌐 Portfolio: https://saipoojasolutions.in
 *"Developing scalable backend systems, one API at a time."*
 
 </div>
