@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner.png)
+<img src="banner.png" alt="Banner" width="100%">
 
 # Saikumar Mallarapu
 
@@ -13,84 +13,153 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saikumarmallarapu)
 [![GitHub](https://img.shields.io/badge/GitHub-saikumar--pydev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/saikumar-pydev)
 [![Website](https://img.shields.io/badge/Website-saipoojasolutions.in-0A66FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://saipoojasolutions.in)
-[![Email](https://img.shields.io/badge/Email-info%40saipoojasolutions.in-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:info@saipoojasolutions.in)
+[![Email](https://img.shields.io/badge/Email-info@saipoojasolutions.in-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:info@saipoojasolutions.in)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-Python Developer specializing in **Django, Django REST Framework, PostgreSQL, REST APIs, SaaS platforms, CRM systems, billing software, WhatsApp automation, and business process automation**.
+Python Developer specializing in Django, Django REST Framework, PostgreSQL, REST APIs, SaaS Platforms, CRM Systems, Billing Software, WhatsApp Automation, AI Integrations, and Business Automation Solutions.
 
-Currently working as a Python Developer at **M7 Corporation**, building production-grade Django applications, REST APIs, database-driven systems, and business automation tools.
+Currently working as a Python Developer at **M7 Corporation**, building production-grade web applications, APIs, business software, and automation systems.
 
-Founder of **Saipooja Software Solutions**, helping businesses build websites, mobile apps, CRM platforms, billing software, AI integrations, and automation systems.
-
----
-
-## Technical Skills
-
-**Backend:** Python, Django, Django REST Framework, REST APIs, JWT
-**Database:** PostgreSQL, MySQL, SQLite, Redis
-**DevOps:** Docker, Linux, Nginx, Gunicorn, Git, GitHub
-**Cloud:** AWS EC2, AWS S3, Cloudflare, VPS Deployment
-**Automation:** WhatsApp Business API, Meta Developer Platform, Email Automation, AI Integrations
+Alongside my professional career, I founded **Saipooja Software Solutions**, helping businesses build websites, mobile applications, CRM platforms, billing software, AI-powered solutions, and automation systems.
 
 ---
 
-## Professional Experience
+# Technical Skills
 
-### Python Developer — M7 Corporation
+### Backend Development
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+* JWT Authentication
+* API Integrations
+
+### Database Technologies
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Redis
+
+### DevOps & Infrastructure
+
+* Docker
+* Linux
+* Nginx
+* Gunicorn
+* Git
+* GitHub
+
+### Cloud Technologies
+
+* AWS EC2
+* AWS S3
+* Cloudflare
+* VPS Deployment
+
+### Automation & AI
+
+* WhatsApp Business API
+* Meta Developer Platform
+* Email Automation
+* Business Automation
+* AI Integrations
+
+---
+
+# Professional Experience
+
+## Python Developer — M7 Corporation
 
 **July 2025 – Present | Chennai, India**
 
-* Building scalable Django applications and REST APIs
-* Designing PostgreSQL database schemas and optimized queries
-* Implementing authentication, role-based access, and API integrations
-* Deploying Django applications on Linux using Gunicorn and Nginx
-* Working on healthcare, NGO, education, and business automation systems
-* Supporting production applications, bug fixes, and feature improvements
+### Responsibilities
+
+* Developing scalable Django applications
+* Building secure REST APIs
+* Designing PostgreSQL database structures
+* Implementing authentication and authorization systems
+* Integrating third-party APIs
+* Deploying applications on Linux servers
+* Maintaining production environments
+* Developing business automation solutions
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Child Care Management Portal
+## Child Care Management Portal
 
-Multi-role healthcare management system with owner, department head, therapist, and parent dashboards.
+Healthcare management platform with:
 
-**Tech:** Django, DRF, PostgreSQL
+* Owner Dashboard
+* Department Head Dashboard
+* Therapist Dashboard
+* Parent Dashboard
+* Daily Activity Tracking
+* Progress Reports
+* Messaging System
+* Document Management
 
----
-
-### WhatsApp CRM & Automation Platform
-
-Lead management, customer communication, automated follow-ups, dashboard analytics, and Meta API integration.
-
-**Tech:** Django, PostgreSQL, WhatsApp Business API
-
----
-
-### Billing & POS Software
-
-Billing, inventory tracking, customer records, invoice generation, and sales reporting system.
-
-**Tech:** Django, PostgreSQL
+**Tech Stack:** Django, DRF, PostgreSQL
 
 ---
 
-### Business Automation Platform
+## WhatsApp CRM & Automation Platform
 
-Workflow automation, employee management, lead tracking, reporting, and AI integration modules.
+Business communication platform with:
 
-**Tech:** Django, DRF, Redis, PostgreSQL
+* Lead Management
+* Customer Management
+* WhatsApp Automation
+* Follow-up Workflows
+* Dashboard Analytics
+* Meta API Integration
+
+**Tech Stack:** Django, PostgreSQL, WhatsApp Business API
 
 ---
 
-## Founder — Saipooja Software Solutions
+## Billing & POS Software
 
-**Saipooja Software Solutions** is a software and digital services company focused on building practical business systems.
+Business billing system with:
+
+* Billing Management
+* Inventory Tracking
+* Customer Management
+* Sales Reports
+* Invoice Generation
+* Role-Based Access
+
+**Tech Stack:** Django, PostgreSQL
+
+---
+
+## Business Automation Platform
+
+Business workflow automation system with:
+
+* Employee Management
+* Lead Tracking
+* Reports & Analytics
+* Workflow Automation
+* AI Integrations
+
+**Tech Stack:** Django, DRF, Redis, PostgreSQL
+
+---
+
+# Founder — Saipooja Software Solutions
+
+**Software & Digital Services**
+
+Helping businesses build modern software systems.
 
 ### Services
 
@@ -98,55 +167,64 @@ Workflow automation, employee management, lead tracking, reporting, and AI integ
 * Business Websites
 * Mobile Applications
 * CRM Software
-* Billing & POS Software
+* Billing Software
+* POS Systems
 * WhatsApp Automation
 * Email Automation
+* Staff Attendance Systems
+* School Management Systems
+* SaaS Platforms
 * Custom Software Development
-* SaaS Applications
-* REST API Development
+
+### Company Information
 
 🌐 Website: https://saipoojasolutions.in
+
 📧 Email: [info@saipoojasolutions.in](mailto:info@saipoojasolutions.in)
+
+📱 Instagram: https://instagram.com/saipoojasoftwaresolutions
 
 ---
 
-## Current Focus
+# Current Focus
 
 * Django SaaS Applications
-* WhatsApp Business API
 * AI Business Automation
-* Multi-Tenant Architecture
+* WhatsApp Business API
+* Multi-Tenant Systems
 * Enterprise Dashboards
-* Cloud Deployment
+* Cloud Infrastructure
 * Business Process Automation
 
 ---
 
-## Education & Certification
+# Education
 
-**MCA — Master of Computer Applications**
+### Master of Computer Applications (MCA)
+
 Pursuing
 
-**BCA — Data Science**
+### Bachelor of Computer Applications (BCA)
 
-**Certified Web Developer**
+Data Science
+
+---
+
+# Certification
+
+### Certified Web Developer
+
 NIELIT — Government of India
 
 ---
 
-## Contact
+# Connect With Me
 
-**Website:** https://saipoojasolutions.in
-**Email:** [info@saipoojasolutions.in](mailto:info@saipoojasolutions.in)
-**LinkedIn:** https://linkedin.com/in/saikumarmallarapu
-**GitHub:** https://github.com/saikumar-pydev
-**Instagram:** https://instagram.com/saipoojasoftwaresolutions
-
----
-
-## Keywords
-
-Python Developer, Django Developer, Django REST Framework, PostgreSQL Developer, Backend Developer, REST API Developer, SaaS Developer, CRM Development, Billing Software, WhatsApp Automation, Business Automation, AI Integration, AWS Developer, Linux Deployment, Custom Software Development, Chennai Developer.
+* Website: https://saipoojasolutions.in
+* LinkedIn: https://linkedin.com/in/saikumarmallarapu
+* GitHub: https://github.com/saikumar-pydev
+* Email: [info@saipoojasolutions.in](mailto:info@saipoojasolutions.in)
+* Instagram: https://instagram.com/saipoojasoftwaresolutions
 
 ---
 
