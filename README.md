@@ -1,39 +1,40 @@
 <div align="center">
 
-# Saikumar Mallarapu
+# Hi, I'm Saikumar Mallarapu 👋
 
-### Python Django Backend Developer
+### Python Django Developer | Backend Engineer | REST API Developer
 
-Building scalable backend systems, REST APIs, automation platforms, and business software using Python & Django.
+Backend developer with **1+ year of professional experience** building scalable web applications, REST APIs, CRM systems, and business automation software using Python and Django.
 
-[Portfolio](https://saipoojasolutions.in) •
+📍 Chennai, India
+
 [LinkedIn](https://linkedin.com/in/saikumarmallarapu) •
-[GitHub](https://github.com/saikumar-pydev) •
-[Email](mailto:info@saipoojasolutions.in)
+[Portfolio](https://saipoojasolutions.in) •
+[GitHub](https://github.com/saikumar-pydev)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-Backend developer with 1+ year of professional experience building production-ready web applications using Python and Django.
+I'm a Python Django Developer with **1+ year of professional experience** developing backend applications and REST APIs.
 
-Currently working at **M7 Corporation**, developing scalable backend systems, REST APIs, authentication modules, business dashboards, and database-driven applications.
+Currently working at **M7 Corporation**, where I build production-ready Django applications, optimize databases, integrate third-party APIs, and maintain scalable backend systems.
 
-I also founded **Saipooja Software Solutions**, where I build custom business software, CRM systems, billing applications, automation platforms, and AI-powered solutions for businesses.
+Alongside my professional role, I founded **Saipooja Software Solutions**, where I develop custom software solutions including CRM platforms, billing systems, business automation tools, and AI-powered applications.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
 - Python
 - SQL
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ### Backend
 
@@ -42,67 +43,72 @@ I also founded **Saipooja Software Solutions**, where I build custom business so
 - REST APIs
 - JWT Authentication
 
-### Database
+### Databases
 
 - PostgreSQL
 - MySQL
 - SQLite
 - Redis
 
-### DevOps
+### DevOps & Tools
 
-- Docker
-- Linux
-- Nginx
-- Gunicorn
-- AWS
 - Git
 - GitHub
+- Docker
+- Linux
+- Gunicorn
+- Nginx
+- AWS
 - Celery
+- Postman
 
 ---
 
-## Professional Experience
+# Professional Experience
 
-### Python Django Developer
+## Python Django Developer
+
 **M7 Corporation**
-*July 2025 – Present*
 
-- Develop production-ready Django applications
-- Design and optimize PostgreSQL databases
-- Build secure REST APIs
+**July 2025 – Present**
+
+### Responsibilities
+
+- Develop scalable Django web applications
+- Design and build REST APIs
+- Develop PostgreSQL database schemas
+- Optimize SQL queries and application performance
 - Implement authentication and authorization
 - Integrate third-party APIs
-- Deploy applications using Gunicorn and Nginx
-- Maintain and improve production systems
+- Deploy applications on Linux servers using Gunicorn and Nginx
+- Debug production issues and deliver new features
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Healthcare Management System
+## Healthcare Management System
 
-A multi-role healthcare platform built with Django and PostgreSQL.
+Production-ready healthcare platform for hospitals and therapy centers.
 
-**Key Features**
+**Highlights**
 
-- Role-based authentication
+- Multi-role authentication
 - Patient management
-- Therapist dashboard
-- Reports
-- Notifications
+- Reports and dashboards
+- Secure REST APIs
 
 **Tech**
 
-`Python` `Django` `PostgreSQL`
+Python • Django • PostgreSQL • DRF
 
 ---
 
-### WhatsApp CRM Platform
+## WhatsApp CRM Platform
 
-Business automation platform integrated with the WhatsApp Business API.
+Customer relationship management system integrated with WhatsApp Business API.
 
-**Key Features**
+**Highlights**
 
 - Lead management
 - Automated messaging
@@ -111,52 +117,68 @@ Business automation platform integrated with the WhatsApp Business API.
 
 **Tech**
 
-`Django` `DRF` `PostgreSQL`
+Python • Django • DRF • PostgreSQL
 
 ---
 
-### Billing & POS Software
+## Billing & POS Software
 
-Business billing solution for retail and service businesses.
+Billing solution for retail businesses.
 
-**Key Features**
+**Highlights**
 
-- Billing
-- Inventory
+- Invoice management
+- Inventory management
 - Customer management
-- Reports
+- Sales reports
 
 **Tech**
 
-`Django` `PostgreSQL`
+Python • Django • PostgreSQL
 
 ---
 
-## Current Focus
+## Business Automation Platform
 
-- Django
-- REST API Development
-- SaaS Applications
-- Business Automation
-- CRM Systems
-- AI Integrations
-- Cloud Deployment
+Automation platform for managing internal business workflows.
+
+**Highlights**
+
+- Lead management
+- Employee management
+- Workflow automation
+- Background task processing
+
+**Tech**
+
+Python • Django • Redis • Celery
 
 ---
 
-## GitHub Statistics
+# Currently Learning
+
+- Django Performance Optimization
+- Advanced PostgreSQL
+- Docker
+- AWS
+- System Design
+- Scalable Backend Architecture
+
+---
+
+# GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&hide_border=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-## Education
+# Education
 
 **Master of Computer Applications (MCA)** *(Pursuing)*
 
@@ -167,17 +189,19 @@ NIELIT, Government of India
 
 ---
 
-## Contact
+# Connect
 
-- Website: https://saipoojasolutions.in
 - LinkedIn: https://linkedin.com/in/saikumarmallarapu
+- Portfolio: https://saipoojasolutions.in
 - GitHub: https://github.com/saikumar-pydev
 - Email: info@saipoojasolutions.in
 
 ---
 
-<p align="center">
+<div align="center">
 
-*"Building scalable backend systems that solve real business problems."*
+### Python • Django • REST APIs • PostgreSQL • Backend Development
 
-</p>
+Building reliable backend systems with clean architecture and scalable design.
+
+</div>
