@@ -5,7 +5,7 @@
 <h1 align="center">Saikumar Mallarapu</h1>
 
 <h3 align="center">
-Python Django Developer • Backend Engineer • REST API Developer
+Python Backend Developer • Django • Django REST Framework • PostgreSQL
 </h3>
 
 <p align="center">
@@ -197,11 +197,17 @@ Automation software for business workflows.
 # GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
