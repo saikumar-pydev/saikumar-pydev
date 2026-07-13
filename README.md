@@ -194,18 +194,26 @@ Automation software for business workflows.
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saikumar-pydev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="170"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumar-pydev&theme=github_dark"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar-pydev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="170"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumar-pydev&theme=github_dark"
     alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumar-pydev&theme=github_dark"
+    alt="Profile Details"
   />
 </p>
 
