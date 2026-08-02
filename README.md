@@ -18,7 +18,7 @@ Backend developer with <strong>1+ year of professional experience</strong> build
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/saikumar-pydev">
+<a href="https://github.com/saikumarmallarapu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -199,12 +199,12 @@ Automation software for business workflows.
 <p align="center">
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumar-pydev&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumarmallarapu&theme=github_dark"
     alt="GitHub Stats"
   />
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumar-pydev&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumarmallarapu&theme=github_dark"
     alt="Top Languages"
   />
 </p>
@@ -212,7 +212,7 @@ Automation software for business workflows.
 <p align="center">
   <img
     width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumar-pydev&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumarmallarapu&theme=github_dark"
     alt="Profile Details"
   />
 </p>
@@ -241,7 +241,7 @@ NIELIT — Government of India
 
 - 🌐 Website: https://saipoojasolutions.in
 - 💼 LinkedIn: https://linkedin.com/in/saikumarmallarapu
-- 💻 GitHub: https://github.com/saikumar-pydev
+- 💻 GitHub: https://github.com/saikumarmallarapu
 - 📧 Email: info@saipoojasolutions.in
 
 ---
