@@ -196,7 +196,7 @@ Automation software for business workflows.
 
 # GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumarmallarapu&theme=github_dark"
@@ -215,7 +215,7 @@ Automation software for business workflows.
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumarmallarapu&theme=github_dark"
     alt="Profile Details"
   />
-</p>
+</p> -->
 
 ---
 
