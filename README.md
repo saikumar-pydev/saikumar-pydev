@@ -5,11 +5,11 @@
 <h1 align="center">Saikumar Mallarapu</h1>
 
 <h3 align="center">
-Python Django Developer | Django REST Framework | PostgreSQL | REST APIs
+Python Backend Developer | Django | Django REST Framework | PostgreSQL
 </h3>
 
 <p align="center">
-Python Django Developer with 1+ year of professional experience building production applications, REST APIs, automation tools, and PostgreSQL-based systems.
+Python Django Developer with 1+ year of professional experience building production applications, REST APIs, automation tools, and PostgreSQL-based backend systems.
 </p>
 
 <p align="center">
@@ -34,65 +34,89 @@ Python Django Developer with 1+ year of professional experience building product
 
 ## About Me
 
-- Python Django Developer at **M7 Corporation**
+- Python Django Developer with 1+ year of professional experience
+- Currently building production applications at **M7 Corporation**
 - Experienced in Django, Django REST Framework, PostgreSQL, REST APIs, JWT, RBAC, automation, and deployment
-- Built production systems across healthcare, NGO, workforce, CRM, billing, and business automation
-- Open to Python Developer, Django Developer, and Backend Developer opportunities
+- Worked across healthcare, NGO, workforce, CRM, billing, and business automation platforms
+- Open to Python Developer, Django Developer, Backend Developer, and Python Backend Developer opportunities
 
 ---
 
 ## Tech Stack
 
 **Backend:** Python, Django, Django REST Framework, REST APIs, Celery  
-**Database:** PostgreSQL, MySQL, SQLite, Redis  
-**Security:** JWT, Session Authentication, RBAC  
-**DevOps:** Docker, Linux, AWS, Nginx, Gunicorn  
+**Database:** PostgreSQL, Redis  
+**Security:** JWT Authentication, Session Authentication, RBAC  
+**Deployment:** Linux, Gunicorn, Nginx, Docker, AWS  
 **Tools:** Git, GitHub, Postman, openpyxl, WeasyPrint
 
 ---
 
 ## Featured Projects
 
-### Balaram Child Neuro Care
+### [Balaram Child Neuro Care](https://saipoojademo.pythonanywhere.com)
 
-Multi-role healthcare management system for patient records, therapist activities, progress reports, document management, announcements, and parent communication.
+Developed a multi-role healthcare management system for patient records, therapist activities, progress reports, document management, announcements, and parent-therapist communication.
 
 `Python` `Django` `Django REST Framework` `PostgreSQL`
 
-### Saipooja Software Solutions
+---
 
-CRM and business automation platform for client management, billing, staff operations, dashboards, authentication, reporting, and REST API workflows.
+### [Saipooja Software Solutions](https://saipoojasolutions.in)
+
+Developed a CRM and business automation platform for client management, billing, staff operations, dashboards, authentication, reporting, and REST API workflows.
 
 `Python` `Django` `PostgreSQL` `REST APIs`
 
-### Thaagam.org
+---
 
-NGO management and donation platform with education workflows, campaign automation bots, image quality control, inventory logic, referral systems, analytics, and Excel processing.
+### [Thaagam.org](https://thaagam.org)
+
+Worked on this NGO management and donation platform at **M7 Corporation**. Contributed to education and donation workflows, campaign automation bots, image quality-control tools, inventory logic, referral forms, analytics funnels, and Excel processing.
 
 `Python` `Django` `PostgreSQL` `openpyxl`
 
 ---
 
+## Professional Experience
+
+### Python Django Developer
+
+**M7 Corporation**  
+**July 2025 – Present**
+
+- Develop production Django applications and REST APIs
+- Build PostgreSQL database models and backend workflows
+- Implement JWT, session authentication, and role-based access control
+- Develop Excel, PDF, email, and automation features
+- Debug and resolve production issues
+- Deploy and maintain applications using Linux, Gunicorn, and Nginx
+
+---
+
 ## Current Focus
 
-- Advanced Django
-- PostgreSQL optimization
-- Docker and AWS
-- System design
-- Scalable backend architecture
+- Django performance optimization
+- Advanced PostgreSQL queries
+- Docker-based deployments
+- AWS application deployment
+- Backend system design
 
 ---
 
 ## Education
 
 **Master of Computer Applications**  
-Pursuing
+Shree Krishna Chaitanya Institute of Science & Technology  
+2025 – Expected 2027
 
 **Bachelor of Computer Applications**  
-Completed
+Shree Krishna Chaitanya Degree College  
+2022 – 2025
 
 **Certified Web Developer**  
-NIELIT, Government of India
+NIELIT, Government of India  
+June 2025
 
 ---
 
