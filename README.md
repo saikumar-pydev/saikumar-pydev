@@ -5,249 +5,106 @@
 <h1 align="center">Saikumar Mallarapu</h1>
 
 <h3 align="center">
-Python Backend Developer • Django • Django REST Framework • PostgreSQL
+Python Django Developer | Django REST Framework | PostgreSQL | REST APIs
 </h3>
 
 <p align="center">
-Backend developer with <strong>1+ year of professional experience</strong> building scalable Django applications, REST APIs, business software, and automation platforms.
+Python Django Developer with 1+ year of professional experience building production applications, REST APIs, automation tools, and PostgreSQL-based systems.
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/saikumarmallarapu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<a href="https://linkedin.com/in/saikumarmallarapu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://github.com/saikumarmallarapu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-<a href="https://github.com/saikumarmallarapu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <a href="https://saikumarmallarapu.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 
-<a href="https://saipoojasolutions.in">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="mailto:info@saipoojasolutions.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="mailto:saikumar.pydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-# About Me
+## About Me
 
-I'm a Python Django Developer with **1+ year of professional experience** developing production-ready backend applications using Django and Django REST Framework.
-
-Currently working at **M7 Corporation**, where I build scalable web applications, REST APIs, authentication systems, database-driven applications, and business automation solutions.
-
-I'm also the founder of **Saipooja Software Solutions**, where I develop custom software solutions for businesses including CRM systems, billing software, automation platforms, and AI-integrated applications.
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-</p>
-
-- Django REST Framework
-- REST APIs
-- JWT Authentication
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis"/>
-
-</p>
-
-## DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws"/>
-
-</p>
-
-- Gunicorn
-- Nginx
-- Celery
-- Postman
+- Python Django Developer at **M7 Corporation**
+- Experienced in Django, Django REST Framework, PostgreSQL, REST APIs, JWT, RBAC, automation, and deployment
+- Built production systems across healthcare, NGO, workforce, CRM, billing, and business automation
+- Open to Python Developer, Django Developer, and Backend Developer opportunities
 
 ---
 
-# Professional Experience
+## Tech Stack
 
-## Python Django Developer
-
-**M7 Corporation**
-
-**July 2025 – Present**
-
-### Responsibilities
-
-- Develop scalable Django applications
-- Design REST APIs
-- Build PostgreSQL database schemas
-- Optimize database performance
-- Implement JWT authentication
-- Integrate third-party APIs
-- Deploy applications using Gunicorn & Nginx
-- Debug production issues
-- Develop internal business automation tools
+**Backend:** Python, Django, Django REST Framework, REST APIs, Celery  
+**Database:** PostgreSQL, MySQL, SQLite, Redis  
+**Security:** JWT, Session Authentication, RBAC  
+**DevOps:** Docker, Linux, AWS, Nginx, Gunicorn  
+**Tools:** Git, GitHub, Postman, openpyxl, WeasyPrint
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## Healthcare Management System
+### Balaram Child Neuro Care
 
-Production-ready healthcare platform.
+Multi-role healthcare management system for patient records, therapist activities, progress reports, document management, announcements, and parent communication.
 
-**Features**
+`Python` `Django` `Django REST Framework` `PostgreSQL`
 
-- Multi-role authentication
-- Patient management
-- Reports
-- Parent dashboard
-- Therapist dashboard
+### Saipooja Software Solutions
 
-**Tech**
+CRM and business automation platform for client management, billing, staff operations, dashboards, authentication, reporting, and REST API workflows.
 
-`Python` `Django` `DRF` `PostgreSQL`
+`Python` `Django` `PostgreSQL` `REST APIs`
 
----
+### Thaagam.org
 
-## WhatsApp CRM Platform
+NGO management and donation platform with education workflows, campaign automation bots, image quality control, inventory logic, referral systems, analytics, and Excel processing.
 
-Customer communication and automation platform.
-
-**Features**
-
-- Lead Management
-- Automated Messaging
-- WhatsApp Integration
-- Dashboard Analytics
-
-**Tech**
-
-`Python` `Django` `DRF` `PostgreSQL`
+`Python` `Django` `PostgreSQL` `openpyxl`
 
 ---
 
-## Billing & POS Software
-
-Business billing application.
-
-**Features**
-
-- Invoice Generation
-- Inventory
-- Customer Management
-- Reports
-
-**Tech**
-
-`Python` `Django` `PostgreSQL`
-
----
-
-## Business Automation Platform
-
-Automation software for business workflows.
-
-**Features**
-
-- Employee Management
-- Lead Management
-- Workflow Automation
-- Reports
-- Background Tasks
-
-**Tech**
-
-`Python` `Django` `Redis` `Celery`
-
----
-
-# Currently Learning
+## Current Focus
 
 - Advanced Django
-- PostgreSQL Optimization
-- Docker
-- AWS
-- System Design
-- Scalable Backend Architecture
+- PostgreSQL optimization
+- Docker and AWS
+- System design
+- Scalable backend architecture
 
 ---
 
-# GitHub Stats
+## Education
 
-<!-- <p align="center">
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikumarmallarapu&theme=github_dark"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikumarmallarapu&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikumarmallarapu&theme=github_dark"
-    alt="Profile Details"
-  />
-</p> -->
-
----
-
-# Education
-
-### Master of Computer Applications (MCA)
-
+**Master of Computer Applications**  
 Pursuing
 
-### Bachelor of Computer Applications
+**Bachelor of Computer Applications**  
+Completed
 
-Data Science
-
-### Certification
-
-Certified Web Developer
-
-NIELIT — Government of India
+**Certified Web Developer**  
+NIELIT, Government of India
 
 ---
 
-# Connect
+## Connect
 
-- 🌐 Website: https://saipoojasolutions.in
-- 💼 LinkedIn: https://linkedin.com/in/saikumarmallarapu
-- 💻 GitHub: https://github.com/saikumarmallarapu
-- 📧 Email: info@saipoojasolutions.in
+- Portfolio: https://saikumarmallarapu.github.io
+- LinkedIn: https://linkedin.com/in/saikumarmallarapu
+- GitHub: https://github.com/saikumarmallarapu
+- Email: saikumar.pydev@gmail.com
 
 ---
 
 <p align="center">
-
-### "Building scalable backend systems with Python and Django."
-
+  <strong>Building scalable backend systems with Python and Django.</strong>
 </p>
