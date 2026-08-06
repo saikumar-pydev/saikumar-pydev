@@ -5,130 +5,170 @@
 <h1 align="center">Saikumar Mallarapu</h1>
 
 <h3 align="center">
-Python Backend Developer | Django | Django REST Framework | PostgreSQL
+Python Django Developer | Backend Developer
 </h3>
 
 <p align="center">
-Python Django Developer with 1+ year of professional experience building production applications, REST APIs, automation tools, and PostgreSQL-based backend systems.
+Python • Django • Django REST Framework • PostgreSQL • REST APIs
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saikumarmallarapu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="https://github.com/saikumarmallarapu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <a href="https://saikumarmallarapu.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-
-  <a href="mailto:saikumar.pydev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://saikumarmallarapu.github.io">Portfolio</a>
+  &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/saikumarmallarapu">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:saikumar.pydev@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## Professional Summary
 
-- Python Django Developer with 1+ year of professional experience
-- Currently building production applications at **M7 Corporation**
-- Experienced in Django, Django REST Framework, PostgreSQL, REST APIs, JWT, RBAC, automation, and deployment
-- Worked across healthcare, NGO, workforce, CRM, billing, and business automation platforms
-- Open to Python Developer, Django Developer, Backend Developer, and Python Backend Developer opportunities
+Python Django Developer with 1+ year of professional experience building production web applications, REST APIs, PostgreSQL systems, automation workflows, and backend services.
+
+Experienced in authentication, role-based access control, database design, API development, Excel and PDF processing, deployment, debugging, and production support.
+
+Currently working at **M7 Corporation** and open to Python Developer, Django Developer, Backend Developer, and Python Backend Developer opportunities.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Backend:** Python, Django, Django REST Framework, REST APIs, Celery  
 **Database:** PostgreSQL, Redis  
-**Security:** JWT Authentication, Session Authentication, RBAC  
+**Authentication:** JWT, Session Authentication, RBAC  
+**Automation:** openpyxl, WeasyPrint, SMTP  
 **Deployment:** Linux, Gunicorn, Nginx, Docker, AWS  
-**Tools:** Git, GitHub, Postman, openpyxl, WeasyPrint
-
----
-
-## Featured Projects
-
-### [Balaram Child Neuro Care](https://saipoojademo.pythonanywhere.com)
-
-Developed a multi-role healthcare management system for patient records, therapist activities, progress reports, document management, announcements, and parent-therapist communication.
-
-`Python` `Django` `Django REST Framework` `PostgreSQL`
-
----
-
-### [Saipooja Software Solutions](https://saipoojasolutions.in)
-
-Developed a CRM and business automation platform for client management, billing, staff operations, dashboards, authentication, reporting, and REST API workflows.
-
-`Python` `Django` `PostgreSQL` `REST APIs`
-
----
-
-### [Thaagam.org](https://thaagam.org)
-
-Worked on this NGO management and donation platform at **M7 Corporation**. Contributed to education and donation workflows, campaign automation bots, image quality-control tools, inventory logic, referral forms, analytics funnels, and Excel processing.
-
-`Python` `Django` `PostgreSQL` `openpyxl`
+**Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
 ## Professional Experience
 
-### Python Django Developer
-
+### Python Django Developer  
 **M7 Corporation**  
 **July 2025 – Present**
 
-- Develop production Django applications and REST APIs
-- Build PostgreSQL database models and backend workflows
+- Build and maintain production Django applications and REST APIs
+- Design PostgreSQL models and backend workflows
 - Implement JWT, session authentication, and role-based access control
-- Develop Excel, PDF, email, and automation features
-- Debug and resolve production issues
-- Deploy and maintain applications using Linux, Gunicorn, and Nginx
+- Develop Excel import/export, PDF generation, email, and automation features
+- Resolve production bugs and improve application performance
+- Deploy applications using Linux, Gunicorn, and Nginx
+- Contribute to projects across healthcare, NGO, workforce, billing, AI, and business automation
+
+---
+
+## Selected Projects
+
+### Balaram Child Neuro Care  
+**Independent Client Project**
+
+Developed a multi-role healthcare management system for a client operating across three branches.
+
+**Key features:**
+- Patient management
+- Therapist activities
+- Progress reports
+- Document management
+- Announcements
+- Parent-therapist communication
+
+**Technologies:** Python, Django, Django REST Framework, PostgreSQL
+
+---
+
+### [Saipooja Software Solutions](https://saipoojasolutions.in)  
+**Independent Project**
+
+Developed a CRM and business automation platform for managing clients, billing, staff operations, dashboards, authentication, reporting, and REST API workflows.
+
+**Key features:**
+- Client and staff management
+- Billing and invoice workflows
+- Authentication and permissions
+- Reporting dashboards
+- REST APIs
+- Business workflow automation
+
+**Technologies:** Python, Django, PostgreSQL, REST APIs
+
+---
+
+### [Thaagam.org](https://thaagam.org)  
+**M7 Corporation Project**
+
+Worked on an NGO management and donation platform as a Python Django Developer at M7 Corporation.
+
+**Key contributions:**
+- Developed education and donation workflows
+- Built role-based management modules
+- Created campaign automation bots
+- Built image quality-control tools
+- Implemented inventory logic
+- Developed referral donation forms
+- Added Excel import and export workflows
+- Supported analytics and donor campaign processes
+
+**Technologies:** Python, Django, PostgreSQL, openpyxl
+
+---
+
+### GCC Workforce & Attendance System  
+**M7 Corporation Project**
+
+Worked on a workforce and attendance management platform.
+
+**Key contributions:**
+- Developed the core attendance system
+- Built education and attendance dashboards
+- Developed leave application and approval workflows
+- Added zone, centre, and batch-based filtering
+- Added Excel upload support
+- Performed role-based testing and data validation
+
+**Technologies:** Python, Django, PostgreSQL, openpyxl
+
+---
+
+## Education
+
+### Master of Computer Applications  
+**Shree Krishna Chaitanya Institute of Science & Technology**  
+2025 – Expected 2027
+
+### Bachelor of Computer Applications  
+**Shree Krishna Chaitanya Degree College**  
+2022 – 2025
+
+---
+
+## Certifications
+
+### Certified Web Developer  
+**NIELIT, Government of India**  
+June 2025
+
+### Python Full-Stack Workshop  
+**Think Champ, AICTE Recognized**  
+November 2024
 
 ---
 
 ## Current Focus
 
 - Django performance optimization
-- Advanced PostgreSQL queries
-- Docker-based deployments
+- PostgreSQL query optimization
+- REST API architecture
+- Docker-based deployment
 - AWS application deployment
 - Backend system design
 
 ---
 
-## Education
+## Contact
 
-**Master of Computer Applications**  
-Shree Krishna Chaitanya Institute of Science & Technology  
-2025 – Expected 2027
-
-**Bachelor of Computer Applications**  
-Shree Krishna Chaitanya Degree College  
-2022 – 2025
-
-**Certified Web Developer**  
-NIELIT, Government of India  
-June 2025
-
----
-
-## Connect
-
-- Portfolio: https://saikumarmallarapu.github.io
-- LinkedIn: https://linkedin.com/in/saikumarmallarapu
-- GitHub: https://github.com/saikumarmallarapu
-- Email: saikumar.pydev@gmail.com
-
----
-
-<p align="center">
-  <strong>Building scalable backend systems with Python and Django.</strong>
-</p>
+**Portfolio:** https://saikumarmallarapu.github.io  
+**LinkedIn:** https://linkedin.com/in/saikumarmallarapu  
+**GitHub:** https://github.com/saikumarmallarapu  
+**Email:** saikumar.pydev@gmail.com
